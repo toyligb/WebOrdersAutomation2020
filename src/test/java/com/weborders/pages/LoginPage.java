@@ -7,10 +7,10 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage extends AbstractBasePage {
 
-    @FindBy(id = "ct100_MainContent_username")
+    @FindBy (id="ctl00_MainContent_username")
     private WebElement userName;
 
-    @FindBy(id = "ct100_MainContent_password")
+    @FindBy(id = "ctl00_MainContent_password")
     private WebElement password;
 
     public void login() {

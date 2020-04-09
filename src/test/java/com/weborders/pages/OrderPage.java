@@ -1,4 +1,4 @@
 package com.weborders.pages;
 
-public class OrderPage {
+public class OrderPage extends AbstractBasePage {
 }

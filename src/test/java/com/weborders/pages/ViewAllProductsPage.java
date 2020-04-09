@@ -1,4 +1,4 @@
 package com.weborders.pages;
 
-public class ViewAllProductsPage {
+public class ViewAllProductsPage extends AbstractBasePage {
 }
